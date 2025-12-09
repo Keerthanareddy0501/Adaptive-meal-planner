@@ -1,0 +1,1 @@
+A smart weekly meal-planning tool that collects user details, analyzes available pantry items, and generates a personalized 7-day meal plan based on goals like weight loss, muscle gain, or balanced diet. It also creates a shopping list by identifying missing ingredients.
